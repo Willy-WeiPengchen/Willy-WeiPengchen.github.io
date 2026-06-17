@@ -1,6 +1,4 @@
-# Willy-WeiPengchen.github.io
-
-#### 📢 链元体系：致全世界的开源宣言
+# 📢 链元体系：致全世界的开源宣言
 
 今天，我将“链元体系”的相关代码以 **Apache 2.0** 许可证向全世界开放，理论文本与专利书以 **CC-BY-NC-ND 4.0** 许可证公开。
 
@@ -30,7 +28,9 @@
 *   **核心专利授权**：仅限标准共建授权企业获取。
 *   **特定场景剥离**：本开源协议明确排除教育领域的商业使用。任何涉及教育场景的链元技术应用，需另行获取专项商业授权。
 
-**韦朋辰**  
-2026年6月17日  
-GitHub: [Willy-WeiPengchen](https://github.com/Willy-WeiPengchen)  
+---
+
+**韦朋辰**
+2026年6月17日
+GitHub: [Willy-WeiPengchen](https://github.com/Willy-WeiPengchen)
 存证：央视信号源 + OBS录屏 + 本人出境
