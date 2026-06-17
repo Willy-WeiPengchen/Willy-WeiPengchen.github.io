@@ -31,4 +31,4 @@
 **韦朋辰**
 2026年6月17日
 GitHub: [Willy-WeiPengchen](https://github.com/Willy-WeiPengchen)
-存证：央视信号源 + OBS录屏 + 本人出境
+存证：录屏内嵌央视信号源 + OBS录屏 + 本人出境
