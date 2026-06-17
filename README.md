@@ -17,11 +17,6 @@
 
 ---
 
-**韦朋辰**  
-2026年6月17日  
-GitHub: [Willy-WeiPengchen](https://github.com/Willy-WeiPengchen)  
-存证：央视信号源 + OBS录屏 + 本人出境
-
 ### 链元体系・版权确权与信息水渠交互流转
 ### Apache 2.0 + CC-BY-NC-ND 4.0 双轨基础开源生态
 
@@ -34,3 +29,8 @@ GitHub: [Willy-WeiPengchen](https://github.com/Willy-WeiPengchen)
 *   **核心算法保留**：本仓库不包含“链元定义V2.0”、“切分生成拓扑V2.0”等核心底层算法。
 *   **核心专利授权**：仅限标准共建授权企业获取。
 *   **特定场景剥离**：本开源协议明确排除教育领域的商业使用。任何涉及教育场景的链元技术应用，需另行获取专项商业授权。
+
+**韦朋辰**  
+2026年6月17日  
+GitHub: [Willy-WeiPengchen](https://github.com/Willy-WeiPengchen)  
+存证：央视信号源 + OBS录屏 + 本人出境
