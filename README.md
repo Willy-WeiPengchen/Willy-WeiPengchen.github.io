@@ -1,3 +1,5 @@
+https://github.com/Willy-WeiPengchen/Willy-WeiPengchen.github.io/tree/main/7spiralgener 
+
 #  链元体系（Tokener System）：中国独立学者韦朋辰致全世界的开源宣言
 
 公元2026年6月17日
