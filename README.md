@@ -1,4 +1,5 @@
-https://github.com/Willy-WeiPengchen/Willy-WeiPengchen.github.io/tree/main/7spiralgener 
+
+**导航：** [链元体系](./tokenersystem) | [七玄生成论](./7spiralgener) | [语言螺旋](./LanguageSpiral) | [生成派](./generway) | [隐喻代码](./metaphorcode)
 
 #  链元体系（Tokener System）：中国独立学者韦朋辰致全世界的开源宣言
 
