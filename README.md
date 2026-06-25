@@ -2,12 +2,7 @@
 **导航：**
 [链元体系](./tokenersystem) | [链元白皮书](./tokener-whitepaper) | [优制谛](./yozd) | [韦朋辰生成派](./generwei) | [词喻代码](./metaphorcode) | [七玄生成论](./7spiralgener) | [语言双玄](./LanguageSpiral)| [共建邀约公告](./Official-Provider-and-Project-Application-Invitation)
 
-- **更多信息**： [GitHub仓库](https://github.com/Willy-WeiPengchen) ？
-- <div align="center">
-  <a href="./media-reports">
-    <img src="https://img.shields.io/badge/📰-媒体报道-important?style=for-the-badge&logo=github" alt="媒体报道">
-  </a>
-</div>
+**📰 [点击查看全部媒体报道](./media-reports)**
 
 **【使用边界声明】**
 
