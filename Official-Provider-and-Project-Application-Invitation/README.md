@@ -12,7 +12,7 @@
 ### 📄 核心文件 (The Document)
 **请所有意向合作方务必下载并仔细阅读以下具有法律效力的公告原件：**
 
-👉 **[点击下载：链元体系与优制谛数实融合体系官方指定代码提供商共建邀约公告.pdf (带可信时间戳)](./Official-Provider-and-Project-Application-Invitation.pdf)**
+👉[点击下载：链元体系与优制谛数实融合体系官方指定代码提供商共建邀约公告.pdf (带可信时间戳)](https://raw.githubusercontent.com/Willy-WeiPengchen/Willy-WeiPengchen.github.io/main/Official-Provider-and-Project-Application-Invitation/链元体系与优制谛数实融合体系官方指定代码提供商共建邀约公告.pdf)
 
 *   **证书编号**：TSA-01-20260625229604376 
 *   **时间戳认证码**： D34B0FABC82D992A6F45DBAC11640A21D2AAC973C91EA9A4F601DC0E3C2DD65E 
