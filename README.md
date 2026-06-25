@@ -1,6 +1,6 @@
 
 **导航：**
-[链元体系](./tokenersystem) | [链元白皮书](./tokener-whitepaper) | [优制谛](./yozd) | [韦朋辰生成派](./generwei) | [词喻代码](./metaphorcode) | [七玄生成论](./7spiralgener) | [语言螺旋](./LanguageSpiral)
+[链元体系](./tokenersystem) | [链元白皮书](./tokener-whitepaper) | [优制谛](./yozd) | [韦朋辰生成派](./generwei) | [词喻代码](./metaphorcode) | [七玄生成论](./7spiralgener) | [语言双玄](./LanguageSpiral)
 
 #  链元体系（Tokener System）：中国独立学者韦朋辰致全世界的开源宣言
 
