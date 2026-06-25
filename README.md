@@ -2,6 +2,8 @@
 **导航：**
 [链元体系](./tokenersystem) | [链元白皮书](./tokener-whitepaper) | [优制谛](./yozd) | [韦朋辰生成派](./generwei) | [词喻代码](./metaphorcode) | [七玄生成论](./7spiralgener) | [语言双玄](./LanguageSpiral)| [共建邀约公告](./Official-Provider-and-Project-Application-Invitation)
 
+- **更多信息**：[韦朋辰个人主页](https://www.weipengchen.com) | [GitHub仓库](https://github.com/Willy-WeiPengchen) ？
+
 **【使用边界声明】**
 
 本仓库开源源代码、对外公开专利技术文档使用约束如下：
