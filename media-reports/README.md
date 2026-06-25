@@ -1,6 +1,6 @@
 ## 报道列表
 
-- [响应国家“做强做优做大实体经济”号召：立足实体经济发展导向：十年深耕，韦朋辰 “优制谛” 提出数实融合自主底层架构方案]([https://qiangguofengcai.com/#/pages/article-detail/index?id=624)- 中华网，2026年6月3日
+- [响应国家“做强做优做大实体经济”号召：立足实体经济发展导向：十年深耕，韦朋辰 “优制谛” 提出数实融合自主底层架构方案](https://tech.china.com/articles/20260603/202606031885172.html)- 中华网，2026年6月3日
 - [科技高速发展快车道上的生生力量-记韦朋辰以优制谛构建数实融合全自主底层架构](https://qiangguofengcai.com/#/pages/article-detail/index?id=624) - 强国风采，2026年6月8日
 - [科技高速发展快车道上的生生力量-记韦朋辰以优制谛构建数实融合全自主底层架构](https://news.sina.cn/sx/2026-06-12/detail-iniaztwr0723619.d.html?from=wap) - 新浪新闻，2026年6月11日
 - [韦朋辰个人学术官网正式上线：为国产AI底层原创技术搭建自主可控的数字存证门户](https://www.weipengchen.com/) - 中华网，2026年6月19日
