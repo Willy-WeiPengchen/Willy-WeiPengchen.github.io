@@ -1,6 +1,6 @@
 
 **导航：**
-[链元体系](./tokenersystem) | [链元白皮书](./tokener-whitepaper) | [优制谛](./yozd) | [韦朋辰生成派](./generwei) | [词喻代码](./metaphorcode) | [七玄生成论](./7spiralgener) | [语言双玄](./LanguageSpiral)| [共建邀约公告](./Official-Provider-and-Project-Application-Invitation)
+[链元体系](./tokenersystem) | [链元白皮书](./tokener-whitepaper) | [优制谛](./yozd) |[优制谛补充声明](./YOZD-Supplemental-Statement) |  [韦朋辰生成派](./generwei) | [词喻代码](./metaphorcode) | [七玄生成论](./7spiralgener) | [语言双玄](./LanguageSpiral)| [共建邀约公告](./Official-Provider-and-Project-Application-Invitation)
 
 **📰 [点击查看全部媒体报道](./media-reports)**
 
