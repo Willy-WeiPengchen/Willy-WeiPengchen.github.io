@@ -1,9 +1,6 @@
 # AIGEA‑GlassBox‑Evidence‑Argument
 AIGEA（人工智能玻璃盒证据论证）是一种经专利认证的透明问答推理框架，旨在解决传统大模型存在的黑箱生成、输出无法评估、隐藏缺陷以及单次闭环推理等问题。与传统的黑箱人工智能不同，AIGEA实现了全链路开放论证、主动自评估、显式缺失维度标注以及开‑关双向可控迭代，使AI回答具备可信性、可追溯性、可评估性和可迭代性。
 
-**禁止侵权申报**
-任何个人或组织未经发明人明确书面授权，不得基于AIGEA的理论体系或专利技术，独立申请各级政府（包括国家及省部级）资助的科技项目。任何此类未经授权的申请均视为剽窃行为，并构成对知识产权的侵犯。
-
 - Glass‑box evidence argument QA system based on patent 2026109523407, featuring credible source verification, self‑evaluation rating and continuous controllable Off‑On iteration.
 
 ---
@@ -75,6 +72,8 @@ No individual or organization may, without the explicit written authorization of
 **Actively promote** the co-construction of a long-term, benign, circular development ecosystem with mainstream domestic and international AI infrastructure providers including Huawei, ByteDance, DeepSeek, Alibaba, Baidu, Tencent, OpenAI, Gemini, and other industry players, and are committed to building a transparent, trustworthy, controllable, and inclusive global AI underlying paradigm.
 
 ---
+**禁止侵权申报**
+任何个人或组织未经发明人明确书面授权，不得基于AIGEA的理论体系或专利技术，独立申请各级政府（包括国家及省部级）资助的科技项目。任何此类未经授权的申请均视为剽窃行为，并构成对知识产权的侵犯。
 
 ### Contact & Release Information
 - Author: Pengchen Wei
