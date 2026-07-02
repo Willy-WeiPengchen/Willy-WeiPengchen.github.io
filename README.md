@@ -6,7 +6,7 @@
 
 **[优制谛白皮书](./yozd-whitepaper/01-引言-选择的十字路口.md)**
 
-**[AIGEA 玻璃盒框架]([.//AIGEA‑GlassBox‑Evidence‑Argument)**
+**[AIGEA 玻璃盒框架]([./AIGEA‑GlassBox‑Evidence‑Argument)**
 
 **【使用边界声明】**
 
