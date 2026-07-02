@@ -1,12 +1,12 @@
 
 **导航：**
-[链元体系](./tokenersystem) | [链元白皮书](./tokener-whitepaper) | [优制谛](./yozd) |[优制谛补充声明](./YOZD-Supplemental-Statement) |  [韦朋辰生成派](./generway) | [词喻代码](./metaphorcode) | [七玄生成论](./7spiralgener) | [语言双玄](./LanguageSpiral)| [链元与优制谛共建邀约公告](./Official-Provider-and-Project-Application-Invitation)
+[链元体系](./tokenersystem) | [链元白皮书](./tokener-whitepaper) | [优制谛](./yozd) |[优制谛补充声明](./YOZD-Supplemental-Statement) |  [韦朋辰生成派](./generway) | [词喻代码](./metaphorcode) | [七玄生成论](./7spiralgener) | [语言双玄](./LanguageSpiral)| [链元与优制谛共建邀约公告](./Official-Provider-and-Project-Application-Invitation) | [AIGEA 玻璃盒框架]([./AIGEA‑GlassBox‑Evidence‑Argument)
 
 **📰 [点击查看全部媒体报道](./media-reports)**
 
 **[优制谛白皮书](./yozd-whitepaper/01-引言-选择的十字路口.md)**
 
-**[AIGEA 玻璃盒框架]([./AIGEA‑GlassBox‑Evidence‑Argument)**
+
 
 **【使用边界声明】**
 
