@@ -8,7 +8,6 @@
 
 **[AIGEA 玻璃盒框架](./AIGEA‑GlassBox‑Evidence‑Argument)**
 
-
 **【使用边界声明】**
 
 本仓库开源源代码、对外公开专利技术文档使用约束如下：
