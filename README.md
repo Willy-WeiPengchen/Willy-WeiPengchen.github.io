@@ -4,8 +4,6 @@
 
 **📰 [点击查看全部媒体报道](./media-reports)**
 
-**[词喻理论-论文](./CiYuTheory.md)** 
-
 **[优制谛白皮书](./yozd-whitepaper/01-引言-选择的十字路口.md)**
 
 **[AIGEA 玻璃盒框架](./AIGEA‑GlassBox‑Evidence‑Argument)**
