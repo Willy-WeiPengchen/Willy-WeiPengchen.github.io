@@ -1,6 +1,6 @@
 
 **导航：**
-[链元体系](./tokenersystem) | [链元白皮书](./tokener-whitepaper) | [优制谛](./yozd) |[优制谛补充声明](./YOZD-Supplemental-Statement) |  [韦朋辰生成派](./generway) | [七玄生成论](./7spiralgener) | [语言双玄](./LanguageSpiral)| [链元与优制谛共建邀约公告](./Official-Provider-and-Project-Application-Invitation)| [原创理论创立与传播声明](./statement.md)|[语言思想生成构造主义](./Generative-Constructivism.md)|[先看见世界-语玄论](./See-the-World-First-Yuxuanlun.md)|[词喻理论-论文](./CiYuTheory.md) [词喻代码](./metaphorcode) |
+[链元体系](./tokenersystem) | [链元白皮书](./tokener-whitepaper) | [优制谛](./yozd) |[优制谛补充声明](./YOZD-Supplemental-Statement) | [韦朋辰生成派](./generway) | [七玄生成论](./7spiralgener) | [语言双玄](./LanguageSpiral)| [链元与优制谛共建邀约公告](./Official-Provider-and-Project-Application-Invitation)| [原创理论创立与传播声明](./statement.md)|[语言思想生成构造主义](./Generative-Constructivism.md)|[先看见世界-语玄论](./See-the-World-First-Yuxuanlun.md)|[词喻理论-论文](./CiYuTheory.md)| [词喻代码](./metaphorcode) 
 
 **📰 [点击查看全部媒体报道](./media-reports)**
 
